@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "593156832243",
+    "project_id": "notes-app-42352",
+    "storage_bucket": "notes-app-42352.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593156832243:android:3a5c307daff5ec692f7086",
+        "android_client_info": {
+          "package_name": "com.example.fire_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593156832243-a8rplqrf07knndbdpnl7441takag2smd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgI3IpVI2SfXs6FrDEdd5rs5XvupE1qaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593156832243-a8rplqrf07knndbdpnl7441takag2smd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "593156832243-6mrg2eldrhvu72tnl4kts0acbcli27b6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseNotes"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593156832243:android:6699b7f728c5f18a2f7086",
+        "android_client_info": {
+          "package_name": "com.example.firebase_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593156832243-a8rplqrf07knndbdpnl7441takag2smd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgI3IpVI2SfXs6FrDEdd5rs5XvupE1qaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593156832243-a8rplqrf07knndbdpnl7441takag2smd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "593156832243-6mrg2eldrhvu72tnl4kts0acbcli27b6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseNotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
